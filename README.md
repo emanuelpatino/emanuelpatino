@@ -1,4 +1,4 @@
-# Hi, I'm Enmanuel but you can call me many 👋
+# Hi, I'm Enmanuel but you can call me Manny 👋
 
 **Data Analyst** from Medellín, Colombia. I connect data with business decisions, and I build with AI to move faster.
 
